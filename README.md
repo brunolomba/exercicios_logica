@@ -1,2 +1,2 @@
-# exercicios_logica
-Exercicios concluídos para estudo de lógica de programação
+# Exercício de lógica - Python
+Exercicios concluídos, para estudo de lógica de programação
